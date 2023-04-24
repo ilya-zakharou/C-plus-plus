@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\git\C-plus-plus\Cpulspuls\Cpulspuls\Source.cpp(59,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Cpulspuls.vcxproj -> D:\git\C-plus-plus\Cpulspuls\x64\Debug\Cpulspuls.exe
