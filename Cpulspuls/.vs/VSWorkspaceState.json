@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Cpulspuls",
+    "\\Debug"
   ],
-  "SelectedNode": "\\Cpulspuls.sln",
+  "SelectedNode": "\\Cpulspuls\\Source.cpp",
   "PreviewInSolutionExplorer": false
 }
