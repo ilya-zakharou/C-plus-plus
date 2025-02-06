@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="setlocale, const, variable, math.cpp" />
+    <ClCompile Include="if,else,switch.cpp" />
+    <ClCompile Include="for, while, do while.cpp" />
+    <ClCompile Include="Source3.cpp" />
+    <ClCompile Include="notes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
