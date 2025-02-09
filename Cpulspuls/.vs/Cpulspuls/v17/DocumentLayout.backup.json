@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D24F34E-5A47-4312-BC2E-3B28A66DCEF7}|Cpulspuls\\Cpulspuls.vcxproj|D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\setlocale, const, variable, math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D24F34E-5A47-4312-BC2E-3B28A66DCEF7}|Cpulspuls\\Cpulspuls.vcxproj|solutionrelative:Cpulspuls\\setlocale, const, variable, math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D24F34E-5A47-4312-BC2E-3B28A66DCEF7}|Cpulspuls\\Cpulspuls.vcxproj|D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\for, while, do while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D24F34E-5A47-4312-BC2E-3B28A66DCEF7}|Cpulspuls\\Cpulspuls.vcxproj|solutionrelative:Cpulspuls\\for, while, do while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D24F34E-5A47-4312-BC2E-3B28A66DCEF7}|Cpulspuls\\Cpulspuls.vcxproj|D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\Two Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D24F34E-5A47-4312-BC2E-3B28A66DCEF7}|Cpulspuls\\Cpulspuls.vcxproj|solutionrelative:Cpulspuls\\Two Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D24F34E-5A47-4312-BC2E-3B28A66DCEF7}|Cpulspuls\\Cpulspuls.vcxproj|D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\if,else,switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D24F34E-5A47-4312-BC2E-3B28A66DCEF7}|Cpulspuls\\Cpulspuls.vcxproj|solutionrelative:Cpulspuls\\if,else,switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "for, while, do while.cpp",
+              "DocumentMoniker": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\for, while, do while.cpp",
+              "RelativeDocumentMoniker": "Cpulspuls\\for, while, do while.cpp",
+              "ToolTip": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\for, while, do while.cpp",
+              "RelativeToolTip": "Cpulspuls\\for, while, do while.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T10:32:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "if,else,switch.cpp",
+              "DocumentMoniker": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\if,else,switch.cpp",
+              "RelativeDocumentMoniker": "Cpulspuls\\if,else,switch.cpp",
+              "ToolTip": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\if,else,switch.cpp",
+              "RelativeToolTip": "Cpulspuls\\if,else,switch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T10:31:18.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "setlocale, const, variable, math.cpp",
+              "DocumentMoniker": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\setlocale, const, variable, math.cpp",
+              "RelativeDocumentMoniker": "Cpulspuls\\setlocale, const, variable, math.cpp",
+              "ToolTip": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\setlocale, const, variable, math.cpp",
+              "RelativeToolTip": "Cpulspuls\\setlocale, const, variable, math.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T10:31:19.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Two Sum.cpp",
+              "DocumentMoniker": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\Two Sum.cpp",
+              "RelativeDocumentMoniker": "Cpulspuls\\Two Sum.cpp",
+              "ToolTip": "D:\\GIT\\Git\\C-plus-plus\\Cpulspuls\\Cpulspuls\\Two Sum.cpp",
+              "RelativeToolTip": "Cpulspuls\\Two Sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T10:31:15.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -24,10 +24,7 @@
     <ClCompile Include="for, while, do while.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="notes.cpp">
+    <ClCompile Include="Two Sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
